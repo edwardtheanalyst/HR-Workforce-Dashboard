@@ -19,3 +19,7 @@ Most HR dashboards stop at basic counts (headcount, gender split, attrition). Th
 - Attrition Count & Rate: To standardize tracking of employee departures and measure overall turnover against industry benchmarks.
 - Active Employees: To differentiate between active and inactive employees for accurate productivity and capacity assessment.
 - Average Age: To evaluate workforce demographics, aid in succession planning, and understand the organization's ability to attract and retain talent.
+
+## Dashboard
+<img width="652" height="369" alt="Screenshot 2025-09-22 110155" src="https://github.com/user-attachments/assets/72075409-21a1-4c04-a4b5-d1ca221c2b03" />
+
