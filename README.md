@@ -4,6 +4,13 @@ This project develops an interactive Power BI dashboard designed to give HR lead
 ## Why It’s Unique:
 Most HR dashboards stop at basic counts (headcount, gender split, attrition). This one focuses on predictive and action-oriented insights — enabling HR teams to proactively address risks before they hit the bottom line.
 
+## Key Features
+- Diversity & Inclusion Metrics: Gender, age, and ethnicity distributions across departments.
+- Attrition Prediction: Historical turnover analysis and risk segmentation.
+- Performance & Engagement: Department-level KPI tracking for productivity, satisfaction, and promotions.
+- Training ROI: Correlate training investment with employee performance growth.
+- Scenario Planning: “What-If” parameters to test workforce changes.
+
 ### KPI Requirements for an HR Department to improve workforce management and strategic planning. The key areas requiring the implementation of KPIs are:
 - Employee Tracking: Lack of clear visibility into total employee count, attrition count, and active vs. inactive employees hinders workforce assessment and planning.
 - Performance Measurement: Absence of a standardized method to track attrition rate prevents comparison with industry benchmarks and evaluation of employee satisfaction.
